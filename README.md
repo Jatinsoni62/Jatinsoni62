@@ -46,6 +46,6 @@ GitHub: https://github.com/Jatinsoni62
 
 LinkedIn: https://www.linkedin.com/in/jatin-soni-1972a6219/
 
-Email: sonijatin.dev@gmail.com
+Email: jatinsoni.work@gmail.com
 
 ⭐ Always open to collaboration, hackathons, and innovative tech projects!
